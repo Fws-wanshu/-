@@ -1,0 +1,11 @@
+Dependencies for Project 'TEST', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main.c)(0x6A21929B)(--c99 --gnu -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-ID:\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-ID:\keil\ARM\CMSIS\Include-D__UVISION_VERSION="525" -DSTM32F10X_HD-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+F (.\Oscilloscope.c)(0x6A219240)(--c99 --gnu -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-ID:\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-ID:\keil\ARM\CMSIS\Include-D__UVISION_VERSION="525" -DSTM32F10X_HD-o .\objects\oscilloscope.o --omf_browse .\objects\oscilloscope.crf --depend .\objects\oscilloscope.d)
+I (stm32f10x.h)(0x6A219240)
+I (D:\keil\ARM\ARMCC\include\stdint.h)(0x5475F300)
+F (.\system_stm32f10x.c)(0x6A219240)(--c99 --gnu -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-ID:\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-ID:\keil\ARM\CMSIS\Include-D__UVISION_VERSION="525" -DSTM32F10X_HD-o .\objects\system_stm32f10x.o --omf_browse .\objects\system_stm32f10x.crf --depend .\objects\system_stm32f10x.d)
+I (stm32f10x.h)(0x6A219240)
+I (D:\keil\ARM\ARMCC\include\stdint.h)(0x5475F300)
+F (.\startup_stm32f10x_hd.s)(0x6A219240)(--cpu Cortex-M3 -g --apcs=interwork -I.\RTE\_Target_1-ID:\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-ID:\keil\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 525" --pd "STM32F10X_HD SETA 1"--list .\listings\startup_stm32f10x_hd.lst --xref -o .\objects\startup_stm32f10x_hd.o --depend .\objects\startup_stm32f10x_hd.d)
+F (.\Oscilloscope.h)(0x6A219240)()
+F (.\stm32f10x.h)(0x6A219240)()
